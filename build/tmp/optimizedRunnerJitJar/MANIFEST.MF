@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Main-Class: com.amzur.Application
+Class-Path: libs/micronaut-runtime-groovy-4.4.0.jar libs/micronaut-kafka
+ -5.6.0.jar libs/micronaut-serde-jackson-2.11.0.jar libs/micronaut-serde
+ -support-2.11.0.jar libs/micronaut-serde-api-2.11.0.jar libs/micronaut-
+ messaging-4.6.4.jar libs/micronaut-jackson-core-4.6.4.jar libs/micronau
+ t-json-core-4.6.4.jar libs/micronaut-http-server-netty-4.6.4.jar libs/m
+ icronaut-http-server-4.6.4.jar libs/micronaut-http-netty-4.6.4.jar libs
+ /micronaut-router-4.6.4.jar libs/micronaut-http-4.6.4.jar libs/micronau
+ t-context-propagation-4.6.4.jar libs/micronaut-context-4.6.4.jar libs/m
+ icronaut-buffer-netty-4.6.4.jar libs/micronaut-aop-4.6.4.jar libs/micro
+ naut-inject-4.6.4.jar libs/logback-classic-1.5.7.jar libs/groovy-4.0.22
+ .jar libs/jackson-annotations-2.17.2.jar libs/jackson-core-2.17.2.jar l
+ ibs/jakarta.annotation-api-2.1.1.jar libs/netty-codec-http2-4.1.112.Fin
+ al.jar libs/netty-codec-http-4.1.112.Final.jar libs/netty-handler-4.1.1
+ 12.Final.jar libs/netty-codec-4.1.112.Final.jar libs/netty-transport-na
+ tive-unix-common-4.1.112.Final.jar libs/netty-transport-4.1.112.Final.j
+ ar libs/netty-buffer-4.1.112.Final.jar libs/netty-resolver-4.1.112.Fina
+ l.jar libs/netty-common-4.1.112.Final.jar libs/reactor-core-3.6.9.jar l
+ ibs/micronaut-core-reactive-4.6.4.jar libs/reactive-streams-1.0.4.jar l
+ ibs/micronaut-core-4.6.4.jar libs/kafka-clients-3.8.0.jar libs/logback-
+ core-1.5.7.jar libs/slf4j-api-2.0.16.jar libs/jakarta.inject-api-2.0.1.
+ jar libs/zstd-jni-1.5.6-3.jar libs/lz4-java-1.8.0.jar libs/snappy-java-
+ 1.1.10.5.jar resources/ classes/
+

@@ -1,0 +1,3 @@
+com.amzur.DeducedEnvironmentConfigurer
+com.amzur.NettyPropertiesAOTContextConfigurer
+com.amzur.AOTApplicationContextConfigurer
